@@ -1,0 +1,781 @@
+TBalloonGameTutorial
+v7
+r0
+t310233813.721865
+cCheck dependencies
+cProcessInfoPlistFile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/Info.plist Application-Info.plist
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/balloonpop.caf balloonpop.caf
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/bluetutorial.png bluetutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/greentutorial.png greentutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/indigotutorial.png indigotutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/music.caf music.caf
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/orangetutorial.png orangetutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/redfortutorial.png redfortutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/redtutorial.png redtutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/reset_button.png reset_button.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/screenoverlay.png screenoverlay.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/tutorialbackground.png tutorialbackground.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/violettutorial.png violettutorial.png
+cCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/yellowtutorial.png yellowtutorial.png
+cProcessPCH /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch.gch Application_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/main.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/ApplicationDelegate.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/Game.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C5A5EAD00000000000D2090
+t1280990893
+s860304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A4D1600000000001E06E0
+t1280986390
+s1967840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004C5A4D4200000000000244B0
+t1280986434
+s148656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004C5A4E4D000000000000094F
+t1280986701
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004C5A4E4D0000000000009369
+t1280986701
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004C5A4E4D0000000000003C4A
+t1280986701
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004C5A4E570000000000019D60
+t1280986711
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Application_Prefix.pch
+c000000004B4F859E00000000000000BF
+t1263502750
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.h
+c000000004CBA1C7E000000000000014C
+t1287265406
+s332
+i<UIKit/UIKit.h>
+i"Sparrow.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m
+c000000004CBB4A30000000000000055A
+t1287342640
+s1370
+i"ApplicationDelegate.h"
+i"Game.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.h
+c000000004B4F859E00000000000000DA
+t1263502750
+s218
+i<Foundation/Foundation.h>
+i"Sparrow.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m
+c000000004CCD934C00000000000004F5
+t1288541004
+s1269
+i"Game.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/balloonpop.caf
+c000000004C4668FA00000000000096C0
+t1279682810
+s38592
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/bluetutorial.png
+c000000004C488ABE0000000000000992
+t1279822526
+s2450
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/ApplicationDelegate.o
+t1288541013
+s51904
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/BalloonGameTutorial.LinkFileList
+c000000004CCD934D0000000000000234
+t1288541005
+s564
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/Game.o
+t2
+s0
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/main.o
+t1288541013
+s6560
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app
+t2
+s0
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app.dSYM
+t2
+s0
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/BalloonGameTutorial
+t2
+s0
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/Info.plist
+t1288541005
+s640
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/PkgInfo
+t1288541005
+s8
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/balloonpop.caf
+t1288541005
+s38592
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/bluetutorial.png
+t1288541005
+s2450
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/greentutorial.png
+t1288541005
+s2476
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/indigotutorial.png
+t1288541005
+s2478
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/music.caf
+t1288541005
+s1699840
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/orangetutorial.png
+t1288541005
+s2524
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/redfortutorial.png
+t1288541005
+s3821
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/redtutorial.png
+t1288541005
+s2456
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/reset_button.png
+t1288541005
+s4449
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/screenoverlay.png
+t1288541005
+s4383
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/tutorialbackground.png
+t1288541005
+s8625
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/violettutorial.png
+t1288541005
+s2554
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/yellowtutorial.png
+t1288541005
+s2509
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/greentutorial.png
+c000000004C488A7A00000000000009AC
+t1279822458
+s2476
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/indigotutorial.png
+c000000004C488B0100000000000009AE
+t1279822593
+s2478
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m
+c000000004CBA1C7E000000000000017A
+t1287265406
+s378
+i<UIKit/UIKit.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/music.caf
+c000000004C4658BA000000000019F000
+t1279678650
+s1699840
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/orangetutorial.png
+c000000004C488A3A00000000000009DC
+t1279822394
+s2524
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redfortutorial.png
+c000000004C47D3D50000000000000EED
+t1279775701
+s3821
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redtutorial.png
+c000000004C488A110000000000000998
+t1279822353
+s2456
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/reset_button.png
+c000000004C4785550000000000001161
+t1279755605
+s4449
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/screenoverlay.png
+c000000004C4782F1000000000000111F
+t1279754993
+s4383
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/tutorialbackground.png
+c000000004C47968100000000000021B1
+t1279760001
+s8625
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/violettutorial.png
+c000000004C488B2600000000000009FA
+t1279822630
+s2554
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/yellowtutorial.png
+c000000004C488A5800000000000009CD
+t1279822424
+s2509
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPAnimatable.h
+c000000004B4F5EFD00000000000001A0
+t1263492861
+s416
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPAudioEngine.h
+c000000004C0A99D90000000000000435
+t1275763161
+s1077
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPButton.h
+c000000004B4F5EFD00000000000006A5
+t1263492861
+s1701
+i<Foundation/Foundation.h>
+i"SPDisplayObjectContainer.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPDelayedInvocation.h
+c000000004B4F5EFD000000000000030C
+t1263492861
+s780
+i<Foundation/Foundation.h>
+i"SPAnimatable.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPDisplayObject.h
+c000000004CB887030000000000000787
+t1287161603
+s1927
+i<Foundation/Foundation.h>
+i"SPEventDispatcher.h"
+i"SPRectangle.h"
+i"SPMatrix.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPDisplayObjectContainer.h
+c000000004CB88703000000000000042C
+t1287161603
+s1068
+i<Foundation/Foundation.h>
+i"SPDisplayObject.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPEnterFrameEvent.h
+c000000004B4F5EFD00000000000002F1
+t1263492861
+s753
+i<Foundation/Foundation.h>
+i"SPEvent.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPEvent.h
+c000000004B4F5EFD00000000000004E2
+t1263492861
+s1250
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPEventDispatcher.h
+c000000004B4F5EFD00000000000003CB
+t1263492861
+s971
+i<Foundation/Foundation.h>
+i"SPEvent.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPGLTexture.h
+c000000004C932A6D000000000000049B
+t1284713069
+s1179
+i<Foundation/Foundation.h>
+i"SPTexture.h"
+i"SPMacros.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPImage.h
+c000000004B4F5EFD000000000000033B
+t1263492861
+s827
+i<Foundation/Foundation.h>
+i"SPQuad.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPJuggler.h
+c000000004B7328F400000000000002E7
+t1265838324
+s743
+i<Foundation/Foundation.h>
+i"SPAnimatable.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPMacros.h
+c000000004C4DEB5F00000000000005FA
+t1280174943
+s1530
+i<math.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPMatrix.h
+c000000004B4F5EFD000000000000054F
+t1263492861
+s1359
+i<Foundation/Foundation.h>
+i"SPPoolObject.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPMovieClip.h
+c000000004CB87CC000000000000006E1
+t1287158976
+s1761
+i<Foundation/Foundation.h>
+i"SPSprite.h"
+i"SPTexture.h"
+i"SPAnimatable.h"
+i"SPImage.h"
+i"SPSoundChannel.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPNSExtensions.h
+c000000004C3DBE450000000000000291
+t1279114821
+s657
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPPoint.h
+c000000004CC348D50000000000000488
+t1287866581
+s1160
+i<Foundation/Foundation.h>
+i"SPPoolObject.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPPoolObject.h
+c000000004B4F5EFD00000000000002C8
+t1263492861
+s712
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPQuad.h
+c000000004CB9FAA900000000000002AF
+t1287256745
+s687
+i<Foundation/Foundation.h>
+i"SPDisplayObject.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPRectangle.h
+c000000004B4F5EFD00000000000004A6
+t1263492861
+s1190
+i<Foundation/Foundation.h>
+i"SPPoolObject.h"
+i"SPPoint.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPRenderSupport.h
+c000000004C4DEB5F00000000000002A5
+t1280174943
+s677
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPSound.h
+c000000004C51A6DC0000000000000261
+t1280419548
+s609
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPSoundChannel.h
+c000000004C0A99D9000000000000030F
+t1275763161
+s783
+i<Foundation/Foundation.h>
+i"SPSound.h"
+i"SPEventDispatcher.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPSprite.h
+c000000004B4F5EFD0000000000000198
+t1263492861
+s408
+i<Foundation/Foundation.h>
+i"SPDisplayObjectContainer.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPStage.h
+c000000004C3DBE4500000000000003D3
+t1279114821
+s979
+i<Foundation/Foundation.h>
+i"SPDisplayObjectContainer.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPSubTexture.h
+c000000004B4F5EFD00000000000002E1
+t1263492861
+s737
+i<Foundation/Foundation.h>
+i"SPTexture.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTextField.h
+c000000004C94AE9500000000000008DD
+t1284812437
+s2269
+i<Foundation/Foundation.h>
+i"SPDisplayObjectContainer.h"
+i"SPMacros.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTexture.h
+c000000004CBC970E000000000000051B
+t1287427854
+s1307
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTextureAtlas.h
+c000000004CB87CC0000000000000031C
+t1287158976
+s796
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTouch.h
+c000000004B4F5EFD00000000000004FE
+t1263492861
+s1278
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTouchEvent.h
+c000000004B4F5EFD00000000000003B7
+t1263492861
+s951
+i<Foundation/Foundation.h>
+i"SPEvent.h"
+i"SPTouch.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTransitions.h
+c000000004BFD77D100000000000007B4
+t1274902481
+s1972
+i<Foundation/Foundation.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPTween.h
+c000000004B4F5EFD0000000000000533
+t1263492861
+s1331
+i<Foundation/Foundation.h>
+i"SPEventDispatcher.h"
+i"SPAnimatable.h"
+i"SPTransitions.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/SPView.h
+c000000004B4F5EFD00000000000004F5
+t1263492861
+s1269
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes/Sparrow.h
+c000000004CC34C7300000000000003E8
+t1287867507
+s1000
+i"SPNSExtensions.h"
+i"SPEventDispatcher.h"
+i"SPDisplayObject.h"
+i"SPDisplayObjectContainer.h"
+i"SPQuad.h"
+i"SPImage.h"
+i"SPTextField.h"
+i"SPButton.h"
+i"SPStage.h"
+i"SPSprite.h"
+i"SPMovieClip.h"
+i"SPTexture.h"
+i"SPSubTexture.h"
+i"SPGLTexture.h"
+i"SPTextureAtlas.h"
+i"SPEvent.h"
+i"SPTouchEvent.h"
+i"SPEnterFrameEvent.h"
+i"SPJuggler.h"
+i"SPTransitions.h"
+i"SPTween.h"
+i"SPDelayedInvocation.h"
+i"SPRectangle.h"
+i"SPMacros.h"
+i"SPView.h"
+i"SPRenderSupport.h"
+i"SPAudioEngine.h"
+i"SPSound.h"
+i"SPSoundChannel.h"
+
+N/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/build/Debug-iphonesimulator/libSparrow.a
+c000000004CCD780000000000000EAD90
+t1288534016
+s961936
+
+N/var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch.gch
+t1288541012
+s15211536
+
+NApplication-Info.plist
+c000000004CBA1C7E000000000000037C
+t1287265406
+s892
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310233805#310233805#0(0"0(0#1#0"7019267317254411264#0"0#
+
+CCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/ApplicationDelegate.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310233813.458952
+e310233813.587111
+r1
+xCompileC
+xbuild/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/ApplicationDelegate.o
+x/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m310233813#310233813#0(0"0(0#0#105"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m8613943040#2168"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/BalloonGameTutorial.hmap -F/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/UnitTests -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/include -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources/i386 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources -include /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch -c /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/ApplicationDelegate.m -o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/ApplicationDelegate.o0#
+
+CCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/Game.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310233813.587229
+e310233813.721762
+r0
+xCompileC
+xbuild/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/Game.o
+x/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m: In function '-[Game initWithWidth:height:]':
+o/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m:26: error: expected expression before 'SPImage'
+lSLF07#2@98"Compile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m310233813#310233813#0(276"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m: In function '-[Game initWithWidth:height:]':/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m:26: error: expected expression before 'SPImage'1(4@36"Expected expression before 'SPImage'310233813#137#139#0(6@90"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m310233804#26#0#26#0#19"expected * before *0(0#0#90"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m8613513216#2138"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/BalloonGameTutorial.hmap -F/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/UnitTests -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/include -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources/i386 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources -include /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch -c /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Classes/Game.m -o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/Game.o1#
+
+CCompileC build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/main.o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310233812.890153
+e310233813.458837
+r1
+xCompileC
+xbuild/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/main.o
+x/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m310233812#310233813#0(0"0(0#0#82"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m8612732032#2130"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/BalloonGameTutorial.hmap -F/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/UnitTests -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/include -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources/i386 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources -include /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch -c /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/main.m -o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/Objects-normal/i386/main.o0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/balloonpop.caf balloonpop.caf
+s310233805.198869
+e310233805.315787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/balloonpop.caf
+xballoonpop.caf
+lSLF07#2@19"Copy balloonpop.caf310233805#310233805#0(0"0(0#0#90"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/balloonpop.caf8612228928#581"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/balloonpop.caf /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/bluetutorial.png bluetutorial.png
+s310233805.200291
+e310233805.263386
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/bluetutorial.png
+xbluetutorial.png
+lSLF07#2@21"Copy bluetutorial.png310233805#310233805#0(0"0(0#0#92"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/bluetutorial.png8612160320#583"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/bluetutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/greentutorial.png greentutorial.png
+s310233805.201382
+e310233805.256039
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/greentutorial.png
+xgreentutorial.png
+lSLF07#2@22"Copy greentutorial.png310233805#310233805#0(0"0(0#0#93"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/greentutorial.png8612087072#584"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/greentutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/indigotutorial.png indigotutorial.png
+s310233805.203224
+e310233805.296750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/indigotutorial.png
+xindigotutorial.png
+lSLF07#2@23"Copy indigotutorial.png310233805#310233805#0(0"0(0#0#94"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/indigotutorial.png8604659360#585"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/indigotutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/music.caf music.caf
+s310233805.205038
+e310233805.470318
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/music.caf
+xmusic.caf
+lSLF07#2@14"Copy music.caf310233805#310233805#0(0"0(0#0#85"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/music.caf8604407328#576"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/music.caf /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/orangetutorial.png orangetutorial.png
+s310233805.206806
+e310233805.288589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/orangetutorial.png
+xorangetutorial.png
+lSLF07#2@23"Copy orangetutorial.png310233805#310233805#0(0"0(0#0#94"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/orangetutorial.png8604240192#585"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/orangetutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/redfortutorial.png redfortutorial.png
+s310233805.208741
+e310233805.300873
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/redfortutorial.png
+xredfortutorial.png
+lSLF07#2@23"Copy redfortutorial.png310233805#310233805#0(0"0(0#0#94"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redfortutorial.png8603822112#585"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redfortutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/redtutorial.png redtutorial.png
+s310233805.210522
+e310233805.288118
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/redtutorial.png
+xredtutorial.png
+lSLF07#2@20"Copy redtutorial.png310233805#310233805#0(0"0(0#0#91"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redtutorial.png8603360544#582"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/redtutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/reset_button.png reset_button.png
+s310233805.212342
+e310233805.293708
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/reset_button.png
+xreset_button.png
+lSLF07#2@21"Copy reset_button.png310233805#310233805#0(0"0(0#0#92"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/reset_button.png8602876704#583"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/reset_button.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/screenoverlay.png screenoverlay.png
+s310233805.213898
+e310233805.261012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/screenoverlay.png
+xscreenoverlay.png
+lSLF07#2@22"Copy screenoverlay.png310233805#310233805#0(0"0(0#0#93"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/screenoverlay.png8601314336#584"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/screenoverlay.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/tutorialbackground.png tutorialbackground.png
+s310233805.256166
+e310233805.296386
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/tutorialbackground.png
+xtutorialbackground.png
+lSLF07#2@27"Copy tutorialbackground.png310233805#310233805#0(0"0(0#0#98"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/tutorialbackground.png8614390048#589"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/tutorialbackground.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/violettutorial.png violettutorial.png
+s310233805.261114
+e310233805.303259
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/violettutorial.png
+xviolettutorial.png
+lSLF07#2@23"Copy violettutorial.png310233805#310233805#0(0"0(0#0#94"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/violettutorial.png8614126720#585"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/violettutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CCpResource build/Debug-iphonesimulator/BalloonGameTutorial.app/yellowtutorial.png yellowtutorial.png
+s310233805.263644
+e310233805.300727
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BalloonGameTutorial.app/yellowtutorial.png
+xyellowtutorial.png
+lSLF07#2@23"Copy yellowtutorial.png310233805#310233805#0(0"0(0#0#94"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/yellowtutorial.png8613869888#585"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/yellowtutorial.png /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app0#
+
+CGenerateDSYMFile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app.dSYM /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/BalloonGameTutorial
+r0
+
+CLd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/BalloonGameTutorial normal i386
+r0
+
+CProcessInfoPlistFile /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/Info.plist Application-Info.plist
+s310233805.130700
+e310233805.198748
+r1
+xProcessInfoPlistFile
+x/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/Info.plist
+xApplication-Info.plist
+lSLF07#2@30"Process Application-Info.plist310233805#310233805#0(0"0(0#0#98"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Application-Info.plist31244220638756948#618"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Application-Info.plist -genpkginfo /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app/Info.plist0#
+
+CProcessPCH /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch.gch Application_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310233805.470490
+e310233812.889888
+r1
+xProcessPCH
+x/var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch.gch
+xApplication_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Application_Prefix.pch310233805#310233812#0(0"0(0#0#98"/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Application_Prefix.pch8028075772393122816#1965"    cd /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/BalloonGameTutorial.hmap -F/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/Classes -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/sparrow_v1.0/src/UnitTests -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/include -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources/i386 -I/Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/BalloonGameTutorial.build/Debug-iphonesimulator/BalloonGameTutorial.build/DerivedSources -c /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/Application_Prefix.pch -o /var/folders/Bj/BjZylu33EcqxhJQ3612kNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Application_Prefix-cyzpcnmctnfzodaqoakddpsjecuh/Application_Prefix.pch.gch0#
+
+CTouch /Users/kabeern/Dropbox/kabeern/Documents/xcode/projects/BalloonGameTutorial/build/Debug-iphonesimulator/BalloonGameTutorial.app
+r0
+
